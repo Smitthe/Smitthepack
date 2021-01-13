@@ -1,0 +1,2 @@
+# Smitthepack
+minecraft texturepack
